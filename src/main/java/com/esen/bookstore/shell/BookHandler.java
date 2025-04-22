@@ -25,7 +25,7 @@ public class BookHandler {
                 .price(price)
                 .build());
     }
-
+    //trying
     @ShellMethod(value = "Lists all books", key = "list books")
     public String listBooks() {
         return bookService.findAll()
