@@ -1,0 +1,12 @@
+1745306248889:help
+1745306259458:list books
+1745306263353:crate book
+1745306267242:create book
+1745306833391:create book --title Valami --price 123 --publisher KiadoKFT --author Valaki
+1745307013251:help
+1745307016147:create book
+1745307040464:create book --author Valami --publisher KiadoKFT --price 123 --title Valami
+1745307175940:list book
+1745307177780:list books
+1745307181995:help
+1745307184483:list books
