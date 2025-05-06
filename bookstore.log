@@ -25,3 +25,36 @@
 1745911791976:List bookstores
 1745911798423:Delete bookstore 1
 1745911800003:List bookstores
+1745911959754:
+1746512397328:help
+1746513833471:list bookstore
+1746513841162:List bookstores
+1746513875394:update bookstore 5 Nagy Pecs
+1746513880636:update bookstore 5 Nagy
+1746513884525:List bookstores
+1746513898433:help
+1746513906206:create bookstore 6
+1746513913717:List bookstores
+1746513933600:create bookstore 6 Eger 2.03
+1746513937471:cls
+1746514993440:help
+1746514998496:find prices --id 1
+1746515005220:cls
+1746515233668:find prices --id 1
+1746516099283:help
+1746516111769:find books filtered --title "Az aranyembe"
+1746516114371:cls
+1746516178127:help
+1746516195166:filer books --id 1
+1746516204933:filer books --title "Az aranyember"
+1746516219166:list books
+1746516233962:filer books
+1746516241773:filter books --title "Az aranyember"
+1746516259134:filter books
+1746516270697:filter books --title "Az aranyember"
+1746516411821:filter books --title Az aranyember
+1746516422975:filter books --title "Az aranyember"
+1746516526571:help
+1746516536031:filter books --title "Az aranyember"
+1746516605688:help
+1746516613194:filter books --title "Az aranyember"

@@ -22,7 +22,7 @@ public class Bookstore {
     @Column(unique = true)
     private String location;
     private Double priceModifier;
-    private Double moneyInCahRegister;
+    private Double moneyInCashRegister;
 
     @ElementCollection(fetch = FetchType.EAGER)
     @JsonIgnore
